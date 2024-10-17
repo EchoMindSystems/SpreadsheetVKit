@@ -1,0 +1,6 @@
+framework module SpreadsheetViewKit {
+  umbrella header "SpreadsheetViewKit.h"
+  export *
+
+  module * { export * }
+}
